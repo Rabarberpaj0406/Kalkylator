@@ -1,0 +1,10 @@
+C:\Users\Elias.Egneus\source\repos\Kalkylator_1\Kalkylator_1\obj\Debug\Kalkylator_1.csproj.AssemblyReference.cache
+C:\Users\Elias.Egneus\source\repos\Kalkylator_1\Kalkylator_1\obj\Debug\Kalkylator_1.Form1.resources
+C:\Users\Elias.Egneus\source\repos\Kalkylator_1\Kalkylator_1\obj\Debug\Kalkylator_1.Properties.Resources.resources
+C:\Users\Elias.Egneus\source\repos\Kalkylator_1\Kalkylator_1\obj\Debug\Kalkylator_1.csproj.GenerateResource.cache
+C:\Users\Elias.Egneus\source\repos\Kalkylator_1\Kalkylator_1\obj\Debug\Kalkylator_1.csproj.CoreCompileInputs.cache
+C:\Users\Elias.Egneus\source\repos\Kalkylator_1\Kalkylator_1\bin\Debug\Kalkylator_1.exe.config
+C:\Users\Elias.Egneus\source\repos\Kalkylator_1\Kalkylator_1\bin\Debug\Kalkylator_1.exe
+C:\Users\Elias.Egneus\source\repos\Kalkylator_1\Kalkylator_1\bin\Debug\Kalkylator_1.pdb
+C:\Users\Elias.Egneus\source\repos\Kalkylator_1\Kalkylator_1\obj\Debug\Kalkylator_1.exe
+C:\Users\Elias.Egneus\source\repos\Kalkylator_1\Kalkylator_1\obj\Debug\Kalkylator_1.pdb
